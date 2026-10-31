@@ -1,0 +1,14 @@
+# Plant Disease Detection - Core Dependencies
+# Python 3.10 - 3.14 compatible
+
+# Web Framework
+flask>=3.0.0
+
+# Image Processing
+pillow>=10.0.0
+
+# Mathematical & Array Operations
+numpy>=1.24.0
+
+# Cross-Platform Neural Network Runtime
+onnxruntime>=1.16.0
